@@ -9,9 +9,11 @@
 
 TEST1
 ```c
-#include <studio.h>
-void SystemClock_Config(void);
-static void MX_GPIO_Init(void);
-static void MX_USART2_UART_Init(void);
+include "main.h"
+
+/* Private includes ----------------------------------------------------------*/
+/* USER CODE BEGIN Includes */
+#include "rb.h"
+/* USER CODE END Includes */
 
 ```
