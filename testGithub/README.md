@@ -80,9 +80,12 @@ POS:    +22  CNT:    22  DIR: CCW (-)
 POS:     +0  CNT:     0  DIR: CW (+)
 ```
 
+```c
 /* USER CODE BEGIN Includes */
 #include <stdio.h>
 /* USER CODE END Includes */
+```
+
 /* USER CODE BEGIN PD */
 /* Timer period for 16-bit encoder counter (max value) */
 #define ENCODER_TIM_PERIOD        0xFFFF
