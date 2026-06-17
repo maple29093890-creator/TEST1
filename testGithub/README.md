@@ -64,6 +64,7 @@ g_encoder_pos += diff;           // 오버플로우에 강건한 누적
 
 3. 버튼 리셋 (HAL_GPIO_EXTI_Callback)
    * B1 버튼(PC13) Rising Edge 인터럽트 → 메인루프에서 카운터 리셋 + LED 3번 점멸
+
 ```
 📟 USART 출력 예시
 ========================================
