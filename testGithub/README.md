@@ -14,7 +14,6 @@
 
 
 
-
 ## 📁 프로젝트 구조
 ```
 C:\work\stm32_rotary_encoder\
