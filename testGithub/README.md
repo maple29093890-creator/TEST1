@@ -1,4 +1,5 @@
 # Rotary_Encoder_TIM
+
 ![](Rotary_Encoder.png)
 <img src="Rotary_Encoder.png">
 <img src="Rotary_Encoder.png" width="30%">
