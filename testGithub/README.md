@@ -1,4 +1,5 @@
 # Rotary_Encoder_TIM
+![](Rotary_Encoder.png)
 
 
 ## NUCLEO-F103RB 기준 하드웨어 구성:
